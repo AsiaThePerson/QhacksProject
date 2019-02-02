@@ -1,0 +1,54 @@
+<HTML>
+
+    <HEAD>
+    
+    <TITLE> FAST, EASY MEALS </TITLE>
+    
+    </HEAD>
+    
+    <BODY BGCOLOR="FFFFFF">
+    
+    <CENTER><IMG SRC="shrimpo.jpg" ALIGN="TOP"> </CENTER>
+    
+    <HR>
+        <center>
+                <H1 style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif">
+                THE FOOD YOU HAVE</H1>
+                <H2>And have no choice but to eat</H2>
+        </center>
+        
+        <P> Search for recipes by inputting 
+
+        <div class="topnav">
+            <input type="text" placeholder="Search first item...">
+          </div>
+          
+          <div class="topnav">
+            <input type="text" placeholder="Search second item...">
+          </div>
+          
+          <div class="topnav">
+            <input type="text" placeholder="Search third item...">
+          </div>
+
+          <div class="topnav">
+            <input type="text" placeholder="Search fourth item...">
+          </div>
+    
+          <div class="topnav">
+            <input type="text" placeholder="Search fifth item...">
+          </div>
+
+          <div class="topnav">
+            <input type="text" placeholder="Search sixth item...">
+          </div>
+    
+    <P> This is a new paragraph!
+    
+    <BR> <B><I>GOOD FOOD. GOOD RECIPES.</I></B>
+    
+    <HR>
+    
+    </BODY>
+    
+    </HTML>
